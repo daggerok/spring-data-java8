@@ -1,5 +1,5 @@
 # spring-data-java8
-Java 8 CompletableFuture, Stream API return types for spring-data repositories
+Java 8 CompletableFuture, Stream API return types for spring-data (JPA) repositories
 
 ```java
 @Repository
